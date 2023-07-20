@@ -1,5 +1,5 @@
 name: "Configure Pages"
-description: "An action to enable Pages and extract various metadata about a site. It can also be used to configure various static site generators we support as starter workflows."
+description: "An action we support as starter workflows."
 runs:
   using: "node16"
   main: "dist/index.js"
